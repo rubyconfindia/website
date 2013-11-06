@@ -1,4 +1,2 @@
-conference
-==========
-
 RubyConf India website
+---
